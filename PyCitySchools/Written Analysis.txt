@@ -1,0 +1,7 @@
+1.Summarizes the analysis 
+When reviewing both school data, base on school size and school type, I came to the conclusion that The school having lower numbers of students can achieve more results as compared to school having higher numbers of students. Another result is shown on basis of school type that Charter type school student’s overall passing rate is much higher than District type school student.
+
+
+2.Draws two correct conclusions or comparisons from the calculations 
+1.When reviewing the School Spending summary, this data change did not impact the spending ranges for either the average math scores or average reading scores. However, this data change did impact the spending ranges for passing percentages.
+2.In reviewing the last summary on School Types, this data change also affected the passing percentages that compared charter and district schools. Fortunately, it did not affect the average scores for these two school types.
